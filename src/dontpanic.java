@@ -28,7 +28,8 @@ public class dontpanic extends javax.swing.JFrame {
      * Creates new form dontpanic
      */
     
-    
+    // NIM  : 00000023147
+    // Nama : Calvin Octa Wijaya
     public dontpanic() {
         initComponents();
         setLocationRelativeTo(null);
@@ -37,7 +38,7 @@ public class dontpanic extends javax.swing.JFrame {
     public void popDP(){
         dontpanic dp = new dontpanic();
         dp.setVisible(true);
-        dp.setLocation(randInt(1, 900),randInt(1, 700));
+        dp.setLocation(randInt(1, 950),randInt(1, 700));
         
         exitDup();
     }
