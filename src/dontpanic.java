@@ -27,7 +27,7 @@ public class dontpanic extends javax.swing.JFrame {
     /**
      * Creates new form dontpanic
      */
-    private JPanel contentPane;
+    
     
     public dontpanic() {
         initComponents();
